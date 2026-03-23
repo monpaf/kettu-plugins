@@ -1,0 +1,9 @@
+{
+  "name": "CopyLLM",
+  "description": "Copy message for LLM",
+  "authors": [],
+  "main": "src/index.tsx",
+  "vendetta": {
+    "icon": "ic_chat_bubble_32px"
+  }
+}
